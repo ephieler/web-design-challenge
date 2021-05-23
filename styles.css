@@ -1,0 +1,153 @@
+body{
+    background-color: 2A2C33;
+}
+
+
+.indexmain{
+    height: 400px;
+    width: 600px;
+    background-color: 343a40;
+    position: absolute;
+    top: 10%;
+    left: 1%
+}
+
+.vismain{
+    height: 600px;
+    width: 600px;
+    background-color: 343a40;
+    position: absolute;
+    top: 10%;
+    left: 1%
+}
+
+.indexhead{
+    position: absolute;
+    top: 2%;
+    left: 2%;
+    background-color: 343a40;
+    color: white
+    
+}
+
+.indexbody{
+    height: 200px;
+    width: 400px;
+    background-color: 343a40;
+    position: absolute;
+    top: 20%;
+    left: 2%;
+    color: 6C757D
+}
+
+.visbox{
+    height: 400px;
+    width: 500px;
+    background-color: 343a40;
+    position: absolute;
+    top: 10%;
+    left: 48%
+}
+
+.vishead{
+    position: absolute;
+    top: 2%;
+    left: 5%;
+    color: white
+}
+
+.vis1{
+position: absolute;
+top: 12%;
+}
+
+.vis2{
+position: absolute;
+top: 12%;
+left: 50%;
+}
+
+.vis3{
+position: absolute;
+top: 54% 
+}
+
+.vis4{
+position: absolute;  
+top: 54%;
+left: 50%;
+}
+
+.visimg{
+    position: absolute;
+    top: 12%
+}
+
+.visbody{
+    width: 400px;
+    background-color: 343a40;
+    position: absolute;
+    top: 80%;
+    left: 15%;
+    color: white
+}
+
+.compbox{
+    height: 650px;
+    width: 1000px;
+    background-color: 343a40;
+    position: absolute;
+    top: 10%;
+    left: 13%
+}
+
+.comphead{
+    position: absolute;
+    top: 2%;
+    left: 30%;
+    color: white
+}
+
+.compbody{
+    position: absolute;
+    left: 37%;
+    top: 10%;
+    color: white
+}
+
+.vis1b{
+    position: absolute;
+    left: 5%;
+    top: 15%;
+    }
+    
+    .vis2b{
+    position: absolute;
+    top: 15%;
+    left: 55%;
+    }
+    
+    .vis3b{
+    position: absolute;
+    top: 57% ;
+    left: 5%
+    }
+    
+    .vis4b{
+    position: absolute;  
+    top: 57%;
+    left: 55%;
+    }
+
+    .datahead{
+    position: relative;
+    left: 2%;
+    color: white
+    }
+
+    .databody{
+        position: relative;
+        left: 2%;
+        color: white
+        
+    }
